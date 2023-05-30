@@ -1336,7 +1336,7 @@ textarea::placeholder {
   margin-top: -239px;
 }
 textarea#message {
-  min-height: 165px;
+  height: 165px;
 }
 .contact_wrapp-icon {
   width: 100%;
